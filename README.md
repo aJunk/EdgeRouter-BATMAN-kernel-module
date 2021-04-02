@@ -4,7 +4,7 @@ It also contains a binary for `batctl` and an initialisation script for automati
 
 At the moment, these kernel modules only work for MediaTek-based devices (EdgeRouter ER-X/ER-X-SFP/EP-R6/ER-10X) and with firmware v2.0.9-hotfix.1.
 
-A built script to reproduce the process and adapt it for other versions will be added after some clean-up.
+A build script to reproduce the process and adapt it for other versions will be added after some clean-up.
 
 # Installation
 Copy the contents of /user-data to /config/user-data/batman-adv on your EdgeRouter.
